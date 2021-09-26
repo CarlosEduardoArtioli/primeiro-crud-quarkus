@@ -1,0 +1,4 @@
+br\com\caduartioli\controller\ProdutoResource.class
+META-INF\panache-archive.marker
+br\com\caduartioli\model\Produto.class
+br\com\caduartioli\GreetingResource.class
